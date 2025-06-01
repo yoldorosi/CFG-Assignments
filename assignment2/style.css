@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #4CAF50;
+}
+
+#form-container form {
+    background-color: #f2f2f2;
+    padding: 10px;
+    border-radius: 5px;
+    width: 300px;
+}
+
+#result p {
+    font-size: 1.1em;
+}
+
+#hover-text {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
